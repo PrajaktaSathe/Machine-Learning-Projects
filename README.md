@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Contains Machine Learning
+# Machine Learning Projects
+Contains Machine Learning Projects 
